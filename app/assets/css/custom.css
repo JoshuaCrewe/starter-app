@@ -1,0 +1,13 @@
+body {
+  background-color: #fff;
+}
+
+body nav {
+  width: 100%;
+  transition: rotate(45deg);
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/*# sourceMappingURL=custom.css.map */
